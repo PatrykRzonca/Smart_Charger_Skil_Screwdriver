@@ -1,0 +1,128 @@
+
+
+   ---- Transcoding 'Z:\home\patrys\QuasiPeak\Hardware\Gerbers + Drills\Smart_Charger-B_Mask.gbs' ----   Thu Mar 24 20:58:15 2022
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+D18   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'Z:\home\patrys\QuasiPeak\Hardware\Gerbers + Drills\Smart_Charger-B_Silkscreen.gbo' ----   Thu Mar 24 20:58:16 2022
+
+D10   --> D109
+D11   --> D110
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'Z:\home\patrys\QuasiPeak\Hardware\Gerbers + Drills\Smart_Charger-F_Courtyard.gbr' ----   Thu Mar 24 20:58:16 2022
+
+D10   --> D111
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'Z:\home\patrys\QuasiPeak\Hardware\Gerbers + Drills\Smart_Charger-F_Cu.gtl' ----   Thu Mar 24 20:58:16 2022
+
+D13   --> D112
+D14   --> D113
+D15   --> D114
+D16   --> D115
+D17   --> D116
+D18   --> D117
+D19   --> D118
+D20   --> D119
+D21   --> D120
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'Z:\home\patrys\QuasiPeak\Hardware\Gerbers + Drills\Smart_Charger-F_Fab.gbr' ----   Thu Mar 24 20:58:16 2022
+
+D11   --> D121
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'Z:\home\patrys\QuasiPeak\Hardware\Gerbers + Drills\Smart_Charger-F_Mask.gts' ----   Thu Mar 24 20:58:16 2022
+
+D10   --> D122
+D11   --> D123
+D12   --> D124
+D13   --> D125
+D14   --> D126
+D15   --> D127
+D16   --> D128
+D17   --> D129
+D18   --> D130
+D19   --> D131
+D20   --> D132
+D21   --> D133
+D22   --> D134
+D23   --> D135
+D24   --> D136
+D25   --> D137
+D26   --> D138
+D27   --> D139
+D28   --> D140
+D29   --> D141
+D30   --> D142
+D31   --> D143
+D32   --> D144
+D33   --> D145
+D34   --> D146
+D35   --> D147
+D36   --> D148
+D37   --> D149
+D38   --> D150
+D39   --> D151
+D40   --> D152
+D41   --> D153
+D42   --> D154
+D43   --> D155
+D44   --> D156
+D45   --> D157
+D46   --> D158
+D47   --> D159
+D48   --> D160
+D49   --> D161
+D50   --> D162
+D51   --> D163
+D52   --> D164
+D53   --> D165
+D54   --> D166
+D55   --> D167
+D56   --> D168
+D57   --> D169
+D58   --> D170
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'Z:\home\patrys\QuasiPeak\Hardware\Gerbers + Drills\Smart_Charger-F_Silkscreen.gto' ----   Thu Mar 24 20:58:16 2022
+
+D10   --> D171
+D11   --> D172
+D12   --> D173
+D13   --> D174
+D14   --> D175
+D15   --> D176
+D16   --> D177
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'Z:\home\patrys\QuasiPeak\Hardware\Gerbers + Drills\Smart_Charger-Edge_Cuts.gm1' ----   Thu Mar 24 20:58:30 2022
+
+D11   --> D178
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'Z:\home\patrys\QuasiPeak\Hardware\Gerbers + Drills\Smart_Charger-User_Comments.gbr' ----   Thu Mar 24 20:58:30 2022
+
+D11   --> D179
+D12   --> D180
+D13   --> D181
+D14   --> D182
+-----------------------------------------------------------------

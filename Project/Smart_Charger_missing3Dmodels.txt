@@ -1,0 +1,20 @@
+### Missing 3D models - created on 2022-03-18 06:38
+### Printed by checking_3D_models plugin
+Board file: /home/patrys/QuasiPeak/Hardware/Project/Smart_Charger.kicad_pcb
+3D missing models written to:
+/home/patrys/QuasiPeak/Hardware/Project/Smart_Charger_missing3Dmodels.txt
+-------
+('U301', '/home/patrys/Pobrane/BQ7791502PWR.STEP')
+('Q3', '/home/patrys/QuasiPeak/Hardware/3D_Models/NTMFS5C645NLT1G.STEP')
+('D301', '/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_0402_1005Metric.wrl')
+('Q4', '/home/patrys/QuasiPeak/Hardware/3D_Models/NTMFS5C645NLT1G.STEP')
+('J301', '/home/patrys/Pobrane/10114830-10106LF--3DModel-STEP-533217.STEP')
+('L201', '/home/patrys/QuasiPeak/Hardware/3D_Models/User Library-Bourns_SRN5040TA_series.STEP')
+('J101', '/usr/share/kicad/3dmodels/Connector_BarrelJack.3dshapes/BarrelJack_GCT_DCJ200-10-A_Horizontal.wrl')
+('D203', '/usr/share/kicad/3dmodels/Diode_SMD.3dshapes/D_SOD-128.wrl')
+('Q2', '/home/patrys/QuasiPeak/Hardware/3D_Models/NTMFS5C645NLT1G.STEP')
+('U201', '/home/patrys/Pobrane/BQ24075RGTT.STEP')
+('Q1', '/home/patrys/QuasiPeak/Hardware/3D_Models/NTMFS5C645NLT1G.STEP')
+-------
+NUM of 3D missing models:11
+checked extensions ['.stp', '.step', '.stpZ']
