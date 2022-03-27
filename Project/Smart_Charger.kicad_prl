@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_nets": [
@@ -31,7 +31,7 @@
       "/BQ24600RVAT/BQ24600RVAT_SR_N",
       "/BQ24600RVAT/BQ24600RVAT_FB"
     ],
-    "high_contrast_mode": 2,
+    "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
       "pads": 1.0,
@@ -90,7 +90,7 @@
       36
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "Smart_Charger.kicad_prl",

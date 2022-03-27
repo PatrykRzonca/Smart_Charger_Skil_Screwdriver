@@ -253,9 +253,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "pin_to_pin|1466850|958850|cea11a0c-8f39-4a28-8dac-25a00b4a6fe7|89abb359-0dbe-4b33-a33f-ba17bb23ca34"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
